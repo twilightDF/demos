@@ -2,4 +2,4 @@
 /.recommenders/
 .classpath
 .project
-/bin/
+**/bin
